@@ -1,0 +1,33 @@
+body {
+    background-image: url("rock-paper-scissors-g94e4dde2b_1280.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: red;
+    color: white;
+}
+
+h1 {
+    margin-bottom: 100px;
+    text-align: center;
+    color: white;
+}
+button {
+    background-color: green;
+    color: white;
+}
+
+.container {
+    display:flex;
+    justify-content: space-evenly;
+}
+
+#winner {
+    color: white;
+    font-size: 36px;
+}
+
+div {
+    margin-bottom: 50px;
+    text-align: center;
+}
